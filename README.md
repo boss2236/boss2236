@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hey there! I'm Muntasir<br>I'm a self-taught developer and automation enthusiast currently building my own e-commerce store while exploring scalable business solutions for real-world problems. I thrive on experimentation—most of what I’ve learned didn’t come from classrooms or bootcamps, but from diving into projects, breaking things, and figuring them out through tutorials, docs, and hands-on tinkering.<br><br>🚀 What I'm Working On<br>🛒 Launching an e-commerce platform — from product listings to payment integration<br><br>🧠 Business automation workflows — using tools like n8n, Zapier, and open-source APIs<br><br>💻 Front-end development — learning React, Bootstrap, and modern UI patterns<br><br>🤖 AI & automation — exploring how embeddings, LLMs, and agentic apps can streamline business ops<br><br>🧰 Tech Stack & Tools<br>Languages: JavaScript, Python, HTML/CSS<br><br>Frameworks: React, Bootstrap, Node.js (learning)<br><br>Automation: n8n, Zapier, Qdrant, Cloudflare Tunnels<br><br>AI Concepts: Embedding pipelines, semantic search, agentic design<br><br>Learning Platforms: YouTube, FreeCodeCamp, Microsoft Learn<br><br>🎯 Goals<br>Build a fully functional, automated e-commerce system<br><br>Master front-end development with React and TypeScript<br><br>Learn how to integrate AI into business workflows (e.g. chatbots, smart search, auto-replies)<br><br>Connect with others working on open-source, low-code, or AI-powered business tools<br><br>🧩 Fun Fact<br>I’m 100% self-taught. No formal coding classes, no mentors—just curiosity, persistence, and a lot of late-night debugging. I learn best by playing with code first, then watching videos or reading docs to fill in the gaps. If it breaks, I fix it. If it works, I optimize it.
+# 👋 Hey, I'm Muntasir
+
+I'm a **self-taught developer** currently learning **front-end development** (React, Bootstrap, etc.) with the goal of building a fully automated **e-commerce platform**. I’m also diving into **business automation** and exploring how **AI tools and embeddings** can streamline workflows.
+
+---
+
+## 🔧 What I'm Focused On
+- 📚 Learning React, Bootstrap, and UI fundamentals  
+- 🤖 Exploring AI + automation (n8n, embeddings, agentic apps)  
+- 🛠️ Building business solutions using free, open-source tools  
+- 🎯 End goal: Launch a smart, self-operating e-commerce system
+
+---
+
+## 🧩 Fun Fact  
+Everything I’ve learned is **self-taught**. I don’t just watch tutorials—I learn best by **playing with code**, breaking things, and figuring it out as I go.
+
+---
 
 
 ## 🌐 Socials:
