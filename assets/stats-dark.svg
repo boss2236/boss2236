@@ -26,15 +26,15 @@
   <text class="ttl" x="20" y="30">Activity</text>
   <text class="lbl" x="20" y="48">building for 15 months &#183; 1 day streak &#183; best 3</text>
   <g class="rise" style="animation-delay:0.00s">
-    <text class="val" x="24" y="78">24</text>
+    <text class="val" x="24" y="78">10</text>
     <text class="lbl" x="24" y="95">Repositories</text>
   </g>
   <g class="rise" style="animation-delay:0.06s">
-    <text class="val" x="172" y="78">36</text>
+    <text class="val" x="172" y="78">37</text>
     <text class="lbl" x="172" y="95">Commits</text>
   </g>
   <g class="rise" style="animation-delay:0.12s">
-    <text class="val" x="320" y="78">58</text>
+    <text class="val" x="320" y="78">59</text>
     <text class="lbl" x="320" y="95">Contributions</text>
   </g>
   <g class="rise" style="animation-delay:0.18s">

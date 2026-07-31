@@ -29,38 +29,38 @@
   <rect class="bg" x=".5" y=".5" width="459" height="177" rx="10"/>
   <rect x="0" y="0" width="4" height="178" rx="2" fill="#00C58E"/>
   <text class="ttl" x="20" y="30">Languages</text>
-  <text class="lbl" x="20" y="48">by bytes across 24 repositories</text>
+  <text class="lbl" x="20" y="48">by bytes across 10 repositories</text>
   <clipPath id="r"><rect x="20" y="62" width="420" height="14" rx="7"/></clipPath>
   <g clip-path="url(#r)">
-  <rect class="s0" x="20.0" y="62" width="159.2" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
-  <rect class="s1" x="179.2" y="62" width="142.8" height="14" fill="#3178c6" style="animation-delay:0.08s"/>
-  <rect class="s2" x="321.9" y="62" width="39.0" height="14" fill="#41b883" style="animation-delay:0.16s"/>
-  <rect class="s3" x="361.0" y="62" width="37.1" height="14" fill="#f1e05a" style="animation-delay:0.24s"/>
-  <rect class="s4" x="398.0" y="62" width="27.3" height="14" fill="#e34c26" style="animation-delay:0.32s"/>
-  <rect class="s5" x="425.3" y="62" width="8.4" height="14" fill="#663399" style="animation-delay:0.40s"/>
+  <rect class="s0" x="20.0" y="62" width="380.6" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
+  <rect class="s1" x="400.6" y="62" width="22.3" height="14" fill="#e34c26" style="animation-delay:0.08s"/>
+  <rect class="s2" x="423.0" y="62" width="6.5" height="14" fill="#3572A5" style="animation-delay:0.16s"/>
+  <rect class="s3" x="429.5" y="62" width="5.7" height="14" fill="#f1e05a" style="animation-delay:0.24s"/>
+  <rect class="s4" x="435.1" y="62" width="3.1" height="14" fill="#663399" style="animation-delay:0.32s"/>
+  <rect class="s5" x="438.2" y="62" width="1.8" height="14" fill="#41b883" style="animation-delay:0.40s"/>
   </g>
   <g class="rise" style="animation-delay:0.30s">
     <circle cx="25" cy="104" r="5" fill="#DA5B0B"/>
-    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#8899b3">37.9%</tspan></text>
+    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#8899b3">90.6%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.36s">
-    <circle cx="245" cy="104" r="5" fill="#3178c6"/>
-    <text class="lbl" x="258" y="108">TypeScript <tspan fill="#8899b3">34.0%</tspan></text>
+    <circle cx="245" cy="104" r="5" fill="#e34c26"/>
+    <text class="lbl" x="258" y="108">HTML <tspan fill="#8899b3">5.3%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.42s">
-    <circle cx="25" cy="130" r="5" fill="#41b883"/>
-    <text class="lbl" x="38" y="134">Vue <tspan fill="#8899b3">9.3%</tspan></text>
+    <circle cx="25" cy="130" r="5" fill="#3572A5"/>
+    <text class="lbl" x="38" y="134">Python <tspan fill="#8899b3">1.5%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.48s">
     <circle cx="245" cy="130" r="5" fill="#f1e05a"/>
-    <text class="lbl" x="258" y="134">JavaScript <tspan fill="#8899b3">8.8%</tspan></text>
+    <text class="lbl" x="258" y="134">JavaScript <tspan fill="#8899b3">1.4%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.54s">
-    <circle cx="25" cy="156" r="5" fill="#e34c26"/>
-    <text class="lbl" x="38" y="160">HTML <tspan fill="#8899b3">6.5%</tspan></text>
+    <circle cx="25" cy="156" r="5" fill="#663399"/>
+    <text class="lbl" x="38" y="160">CSS <tspan fill="#8899b3">0.7%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.60s">
-    <circle cx="245" cy="156" r="5" fill="#663399"/>
-    <text class="lbl" x="258" y="160">CSS <tspan fill="#8899b3">2.0%</tspan></text>
+    <circle cx="245" cy="156" r="5" fill="#41b883"/>
+    <text class="lbl" x="258" y="160">Vue <tspan fill="#8899b3">0.4%</tspan></text>
   </g>
 </svg>
