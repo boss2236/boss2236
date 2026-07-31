@@ -48,13 +48,13 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 <!-- SNAPSHOT:START -->
 | | | |
 |:--|:--|:--|
-| **10** repositories | **37** commits this year | **59** contributions |
+| **10** repositories | **39** commits this year | **61** contributions |
 | **1** day streak | **3** day best | **15** months building |
 | **0** stars | **2** followers | **2** PRs |
 <!-- SNAPSHOT:END -->
 
 **Most used:** <!-- LANGS:START -->
-**Jupyter Notebook** 91% &#183; **HTML** 5% &#183; **Python** 2% &#183; **JavaScript** 1%
+**Jupyter Notebook** 90% &#183; **HTML** 5% &#183; **Python** 3% &#183; **JavaScript** 1%
 <!-- LANGS:END -->
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -138,20 +138,20 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=452fd094" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=f081ade1" />
-  <img src="assets/stats-dark.svg?v=452fd094" alt="Activity summary" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=fe183b5f" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=84a53ac3" />
+  <img src="assets/stats-dark.svg?v=fe183b5f" alt="Activity summary" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=62dc1b79" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=b765a50f" />
-  <img src="assets/langs-dark.svg?v=62dc1b79" alt="Language breakdown" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=ac87f3c8" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=86235f0a" />
+  <img src="assets/langs-dark.svg?v=ac87f3c8" alt="Language breakdown" width="49%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=b3537128" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=3104e940" />
-  <img src="assets/streak-dark.svg?v=b3537128" alt="Contribution streak" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=3531a515" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=b0b129d2" />
+  <img src="assets/streak-dark.svg?v=3531a515" alt="Contribution streak" width="49%" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=d5ebfa55" />
@@ -160,9 +160,9 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=e5e90cfb" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=75de94b3" />
-  <img src="assets/heatmap-dark.svg?v=e5e90cfb" alt="Contribution graph" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=31246297" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=c26d76e2" />
+  <img src="assets/heatmap-dark.svg?v=31246297" alt="Contribution graph" width="96%" />
 </picture>
 
 </div>
@@ -241,7 +241,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **31 Jul 2026, 13:01 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **31 Jul 2026, 15:27 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
