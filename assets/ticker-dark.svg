@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Skills marquee">
+  <defs>
+    <linearGradient id="lf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111a2e"/>
+      <stop offset="1" stop-color="#111a2e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111a2e" stop-opacity="0"/>
+      <stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <mask id="fade">
+      <rect width="1000" height="140" fill="#fff"/>
+      <rect x="0"    y="0" width="110" height="140" fill="url(#lf)"/>
+      <rect x="890"  y="0" width="110" height="140" fill="url(#rf)"/>
+    </mask>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) { .track { animation: none !important; } }
+    .track { animation: scroll 26s linear infinite; will-change: transform; }
+    @keyframes scroll { to { transform: translateX(-836px); } }
+  </style>
+
+  <rect x=".5" y=".5" width="999" height="139" rx="12" fill="#111a2e" stroke="#1e2b45"/>
+  <rect x="0" y="0" width="4" height="140" rx="2" fill="#00C58E"/>
+
+  <g class="track" mask="url(#fade)">
+    <image href="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,python,nodejs,java,mysql,mongodb,n8n,tensorflow,sklearn,git,github,vercel,cloudflare,unreal,unity&amp;theme=dark" width="836" height="104" x="82" y="18"/>
+    <image href="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,python,nodejs,java,mysql,mongodb,n8n,tensorflow,sklearn,git,github,vercel,cloudflare,unreal,unity&amp;theme=dark" width="836" height="104" x="918" y="18"/>
+    <image href="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,python,nodejs,java,mysql,mongodb,n8n,tensorflow,sklearn,git,github,vercel,cloudflare,unreal,unity&amp;theme=dark" width="836" height="104" x="1754" y="18"/>
+  </g>
+</svg>

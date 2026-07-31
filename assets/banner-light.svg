@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Muntasir Mahmud - self-taught developer building AI and automation">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00966F" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00966F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00668C" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#00668C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00966F" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00966F" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00966F"/>
+      <stop offset="0.5" stop-color="#33b894"/>
+      <stop offset="1" stop-color="#00668C"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" class="n1" stop-color="#00966F"/>
+      <stop offset="0.5" class="n2" stop-color="#12806a"/>
+      <stop offset="1" class="n3" stop-color="#00668C"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00966F"/>
+      <stop offset="1" stop-color="#00668C"/>
+    </linearGradient>
+
+    <clipPath id="avclip"><circle cx="160" cy="180" r="66"/></clipPath>
+    <clipPath id="subclip"><rect class="submask" x="302" y="192" width="560" height="26"/></clipPath>
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+
+    .n1 { animation: hueA 6s ease-in-out infinite; }
+    .n2 { animation: hueB 6s ease-in-out infinite; }
+    .n3 { animation: hueC 6s ease-in-out infinite; }
+    @keyframes hueA { 0%,100% { stop-color: #00966F; } 50% { stop-color: #00668C; } }
+    @keyframes hueB { 0%,100% { stop-color: #12806a; } 50% { stop-color: #1f9dbd; } }
+    @keyframes hueC { 0%,100% { stop-color: #00668C; } 50% { stop-color: #00966F; } }
+
+    .orb { will-change: transform; }
+    .o1 { animation: drift1 18s ease-in-out infinite; }
+    .o2 { animation: drift2 22s ease-in-out infinite; }
+    @keyframes drift1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(70px,-34px); } }
+    @keyframes drift2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-80px,40px); } }
+
+    .p { opacity: 0; animation: float linear infinite; }
+    @keyframes float {
+      0%   { transform: translateY(0);    opacity: 0; }
+      10%  { opacity: 0.45; }
+      70%  { opacity: 0.25; }
+      100% { transform: translateY(-430px); opacity: 0; }
+    }
+
+    .halo { animation: pulse 4.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { transform: scale(1); opacity: .8; } 50% { transform: scale(1.12); opacity: 1; } }
+
+    .ring { animation: spin 9s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .dot { animation: blink 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+
+    .name { animation: riseIn .8s ease-out both; }
+    .sub  { animation: riseIn 1s ease-out .15s both; }
+    @keyframes riseIn { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+    .submask { animation: type 2.4s steps(40, end) .6s both; }
+    @keyframes type { from { width: 0; } to { width: 560; } }
+
+    .caret { animation: caret 1.1s steps(2, start) infinite; }
+    @keyframes caret { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+
+    .line { transform-origin: 302px 251px; animation: grow 1.1s ease-out .9s both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+    .chip { animation: riseIn .6s ease-out both; }
+  </style>
+
+  <rect width="1200" height="360" fill="url(#bgGrad)"/>
+
+  <circle class="orb o1" cx="150" cy="120" r="200" fill="url(#orbA)"/>
+  <circle class="orb o2" cx="1060" cy="320" r="240" fill="url(#orbB)"/>
+
+  <circle class="p" cx="90"  cy="330" r="2.5" fill="#00966F" style="animation-duration:9s;animation-delay:0s"/>
+  <circle class="p" cx="210" cy="260" r="2"   fill="#33b894" style="animation-duration:12s;animation-delay:2s"/>
+  <circle class="p" cx="330" cy="340" r="3"   fill="#00668C" style="animation-duration:10s;animation-delay:4s"/>
+  <circle class="p" cx="470" cy="290" r="2"   fill="#00966F" style="animation-duration:13s;animation-delay:1s"/>
+  <circle class="p" cx="580" cy="350" r="2.5" fill="#33b894" style="animation-duration:11s;animation-delay:6s"/>
+  <circle class="p" cx="700" cy="270" r="2"   fill="#00668C" style="animation-duration:14s;animation-delay:3s"/>
+  <circle class="p" cx="820" cy="330" r="3"   fill="#00966F" style="animation-duration:9s;animation-delay:7s"/>
+  <circle class="p" cx="930" cy="300" r="2"   fill="#33b894" style="animation-duration:12s;animation-delay:5s"/>
+  <circle class="p" cx="1040" cy="345" r="2.5" fill="#00668C" style="animation-duration:10s;animation-delay:8s"/>
+  <circle class="p" cx="1140" cy="280" r="2"   fill="#00966F" style="animation-duration:13s;animation-delay:2.5s"/>
+
+  <circle class="halo" cx="160" cy="180" r="100" fill="url(#halo)"/>
+
+  <g>
+    <circle class="ring" cx="160" cy="180" r="74" fill="none" stroke="url(#ringGrad)" stroke-width="4"
+            stroke-dasharray="118 348" style="transform-origin:160px 180px"/>
+    <circle cx="160" cy="180" r="62" fill="#eef3f9"/>
+    <image xlink:href="https://avatars.githubusercontent.com/u/211632135?v=4" href="https://avatars.githubusercontent.com/u/211632135?v=4"
+           width="144" height="144" x="88" y="108" clip-path="url(#avclip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle class="dot" cx="226" cy="116" r="9" fill="#00966F"/>
+  </g>
+
+  <text class="name" x="300" y="168" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif"
+        font-size="46" font-weight="700" fill="url(#nameGrad)">Muntasir Mahmud</text>
+
+  <g class="sub">
+    <text x="302" y="214" font-family="'Fira Code',Consolas,monospace" font-size="19" fill="#5b6b86"
+          textLength="560" lengthAdjust="spacing" clip-path="url(#subclip)">Self-taught developer - building systems that run themselves</text>
+    <rect class="caret" x="870" y="196" width="9" height="22" rx="2" fill="#00966F"/>
+  </g>
+
+  <rect class="line" x="302" y="250" width="500" height="3" rx="1.5" fill="url(#lineGrad)"/>
+
+  <g class="chip" style="animation-delay:1.3s">
+    <rect x="302" y="270" width="120" height="34" rx="17" fill="#ffffff" stroke="#d8e0ee"/>
+    <text x="362" y="292" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="15" text-anchor="middle" fill="#12203a">&#9889; React</text>
+  </g>
+  <g class="chip" style="animation-delay:1.45s">
+    <rect x="434" y="270" width="120" height="34" rx="17" fill="#ffffff" stroke="#d8e0ee"/>
+    <text x="494" y="292" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="15" text-anchor="middle" fill="#12203a">&#128013; Python</text>
+  </g>
+  <g class="chip" style="animation-delay:1.6s">
+    <rect x="566" y="270" width="120" height="34" rx="17" fill="#ffffff" stroke="#d8e0ee"/>
+    <text x="626" y="292" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="15" text-anchor="middle" fill="#12203a">&#9881; n8n</text>
+  </g>
+  <g class="chip" style="animation-delay:1.75s">
+    <rect x="698" y="270" width="120" height="34" rx="17" fill="#ffffff" stroke="#d8e0ee"/>
+    <text x="758" y="292" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="15" text-anchor="middle" fill="#12203a">&#129504; AI</text>
+  </g>
+  <g class="chip" style="animation-delay:1.9s">
+    <rect x="830" y="270" width="120" height="34" rx="17" fill="#ffffff" stroke="#d8e0ee"/>
+    <text x="890" y="292" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="15" text-anchor="middle" fill="#12203a">&#9889; Automation</text>
+  </g>
+</svg>

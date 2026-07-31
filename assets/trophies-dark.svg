@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="178"
+     viewBox="0 0 460 178" role="img" aria-label="Milestones">
+  <style>
+    .bg   { fill:#111a2e; stroke:#1e2b45; stroke-width:1; }
+    .ttl  { fill:#e6edf7; font:600 14px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .lbl  { fill:#8899b3;  font:400 11px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .val  { fill:#e6edf7; font:700 22px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .acc  { fill:#00C58E; }
+    /* fill-mode is 'backwards', never 'forwards' with a 0-opacity base rule.
+       An SVG embedded as an image may never get to run its animation -
+       reduced motion, a still renderer, a screenshot pipeline - and it must
+       still show the numbers. Base state is therefore fully visible; the
+       animation only borrows the hidden state during its delay.
+       Note: no angle brackets in this comment. Style content is parsed as
+       XML markup, so a stray tag name here kills the whole document. */
+    .rise { animation:rise .6s ease-out backwards; }
+    @keyframes rise { from { opacity:0; transform:translateY(6px); }
+                        to { opacity:1; transform:translateY(0); } }
+    @media (prefers-reduced-motion: reduce) {
+      .rise { animation:none; }
+    }
+    .chip{fill:#111a2e;stroke:#1e2b45;stroke-width:1;}.chipval{fill:#e6edf7;font:700 16px 'Segoe UI',Ubuntu,Helvetica,sans-serif;}.chiplbl{fill:#8899b3;font:400 10px 'Segoe UI',Ubuntu,Helvetica,sans-serif;}
+  </style>
+  <rect class="bg" x=".5" y=".5" width="459" height="177" rx="10"/>
+  <rect x="0" y="0" width="4" height="178" rx="2" fill="#00C58E"/>
+  <text class="ttl" x="20" y="30">Milestones</text>
+  <g class="rise" style="animation-delay:0.10s">
+    <rect x="24" y="18" width="136" height="52" rx="10" class="chip"/>
+    <text x="38" y="35" font-size="15">&#11088;</text>
+    <text class="chipval" x="60" y="48">0</text>
+    <text class="chiplbl" x="60" y="60">Stars</text>
+  </g>
+  <g class="rise" style="animation-delay:0.18s">
+    <rect x="172" y="18" width="136" height="52" rx="10" class="chip"/>
+    <text x="186" y="35" font-size="15">&#127843;</text>
+    <text class="chipval" x="208" y="48">0</text>
+    <text class="chiplbl" x="208" y="60">Forks</text>
+  </g>
+  <g class="rise" style="animation-delay:0.26s">
+    <rect x="320" y="18" width="136" height="52" rx="10" class="chip"/>
+    <text x="334" y="35" font-size="15">&#128101;</text>
+    <text class="chipval" x="356" y="48">2</text>
+    <text class="chiplbl" x="356" y="60">Followers</text>
+  </g>
+  <g class="rise" style="animation-delay:0.34s">
+    <rect x="24" y="82" width="136" height="52" rx="10" class="chip"/>
+    <text x="38" y="99" font-size="15">&#127919;</text>
+    <text class="chipval" x="60" y="112">2</text>
+    <text class="chiplbl" x="60" y="124">PRs</text>
+  </g>
+  <g class="rise" style="animation-delay:0.42s">
+    <rect x="172" y="82" width="136" height="52" rx="10" class="chip"/>
+    <text x="186" y="99" font-size="15">&#128027;</text>
+    <text class="chipval" x="208" y="112">10</text>
+    <text class="chiplbl" x="208" y="124">Issues</text>
+  </g>
+  <g class="rise" style="animation-delay:0.50s">
+    <rect x="320" y="82" width="136" height="52" rx="10" class="chip"/>
+    <text x="334" y="99" font-size="15">&#128197;</text>
+    <text class="chipval" x="356" y="112">15</text>
+    <text class="chiplbl" x="356" y="124">Months</text>
+  </g>
+</svg>

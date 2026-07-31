@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="178"
+     viewBox="0 0 460 178" role="img" aria-label="Languages">
+  <style>
+    .bg   { fill:#111a2e; stroke:#1e2b45; stroke-width:1; }
+    .ttl  { fill:#e6edf7; font:600 14px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .lbl  { fill:#8899b3;  font:400 11px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .val  { fill:#e6edf7; font:700 22px 'Segoe UI',Ubuntu,Helvetica,sans-serif; }
+    .acc  { fill:#00C58E; }
+    /* fill-mode is 'backwards', never 'forwards' with a 0-opacity base rule.
+       An SVG embedded as an image may never get to run its animation -
+       reduced motion, a still renderer, a screenshot pipeline - and it must
+       still show the numbers. Base state is therefore fully visible; the
+       animation only borrows the hidden state during its delay.
+       Note: no angle brackets in this comment. Style content is parsed as
+       XML markup, so a stray tag name here kills the whole document. */
+    .rise { animation:rise .6s ease-out backwards; }
+    @keyframes rise { from { opacity:0; transform:translateY(6px); }
+                        to { opacity:1; transform:translateY(0); } }
+    @media (prefers-reduced-motion: reduce) {
+      .rise { animation:none; }
+    }
+    .s0{animation:grow0 .9s ease-out backwards;transform-origin:left;}@keyframes grow0{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .s1{animation:grow1 .9s ease-out backwards;transform-origin:left;}@keyframes grow1{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .s2{animation:grow2 .9s ease-out backwards;transform-origin:left;}@keyframes grow2{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .s3{animation:grow3 .9s ease-out backwards;transform-origin:left;}@keyframes grow3{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .s4{animation:grow4 .9s ease-out backwards;transform-origin:left;}@keyframes grow4{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .s5{animation:grow5 .9s ease-out backwards;transform-origin:left;}@keyframes grow5{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  </style>
+  <rect class="bg" x=".5" y=".5" width="459" height="177" rx="10"/>
+  <rect x="0" y="0" width="4" height="178" rx="2" fill="#00C58E"/>
+  <text class="ttl" x="20" y="30">Languages</text>
+  <text class="lbl" x="20" y="48">by bytes across 24 repositories</text>
+  <clipPath id="r"><rect x="20" y="62" width="420" height="14" rx="7"/></clipPath>
+  <g clip-path="url(#r)">
+  <rect class="s0" x="20.0" y="62" width="159.2" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
+  <rect class="s1" x="179.2" y="62" width="142.8" height="14" fill="#3178c6" style="animation-delay:0.08s"/>
+  <rect class="s2" x="321.9" y="62" width="39.0" height="14" fill="#41b883" style="animation-delay:0.16s"/>
+  <rect class="s3" x="361.0" y="62" width="37.1" height="14" fill="#f1e05a" style="animation-delay:0.24s"/>
+  <rect class="s4" x="398.0" y="62" width="27.3" height="14" fill="#e34c26" style="animation-delay:0.32s"/>
+  <rect class="s5" x="425.3" y="62" width="8.4" height="14" fill="#663399" style="animation-delay:0.40s"/>
+  </g>
+  <g class="rise" style="animation-delay:0.30s">
+    <circle cx="25" cy="104" r="5" fill="#DA5B0B"/>
+    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#8899b3">37.9%</tspan></text>
+  </g>
+  <g class="rise" style="animation-delay:0.36s">
+    <circle cx="245" cy="104" r="5" fill="#3178c6"/>
+    <text class="lbl" x="258" y="108">TypeScript <tspan fill="#8899b3">34.0%</tspan></text>
+  </g>
+  <g class="rise" style="animation-delay:0.42s">
+    <circle cx="25" cy="130" r="5" fill="#41b883"/>
+    <text class="lbl" x="38" y="134">Vue <tspan fill="#8899b3">9.3%</tspan></text>
+  </g>
+  <g class="rise" style="animation-delay:0.48s">
+    <circle cx="245" cy="130" r="5" fill="#f1e05a"/>
+    <text class="lbl" x="258" y="134">JavaScript <tspan fill="#8899b3">8.8%</tspan></text>
+  </g>
+  <g class="rise" style="animation-delay:0.54s">
+    <circle cx="25" cy="156" r="5" fill="#e34c26"/>
+    <text class="lbl" x="38" y="160">HTML <tspan fill="#8899b3">6.5%</tspan></text>
+  </g>
+  <g class="rise" style="animation-delay:0.60s">
+    <circle cx="245" cy="156" r="5" fill="#663399"/>
+    <text class="lbl" x="258" y="160">CSS <tspan fill="#8899b3">2.0%</tspan></text>
+  </g>
+</svg>

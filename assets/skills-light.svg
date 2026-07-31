@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="250" viewBox="0 0 1080 250" role="img" aria-label="Skill levels">
+  <defs>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" class="s1" stop-color="#00966F"/>
+      <stop offset="0.55" class="s2" stop-color="#33b894"/>
+      <stop offset="1" class="s3" stop-color="#00668C"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .bar { animation: grow .9s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .s1 { animation: hue1 7s ease-in-out infinite; }
+    .s2 { animation: hue2 7s ease-in-out infinite; }
+    .s3 { animation: hue3 7s ease-in-out infinite; }
+    @keyframes hue1 { 0%,100% { stop-color: #00966F; } 50% { stop-color: #00668C; } }
+    @keyframes hue2 { 0%,100% { stop-color: #33b894; } 50% { stop-color: #1f9dbd; } }
+    @keyframes hue3 { 0%,100% { stop-color: #00668C; } 50% { stop-color: #00966F; } }
+    .c0b0{transform-origin:30px 113px;animation-delay:0.15s}
+.c0b1{transform-origin:30px 143px;animation-delay:0.23s}
+.c0b2{transform-origin:30px 173px;animation-delay:0.31s}
+.c0b3{transform-origin:30px 203px;animation-delay:0.39s}
+.c0b4{transform-origin:30px 233px;animation-delay:0.47s}
+.c1b0{transform-origin:300px 113px;animation-delay:0.27s}
+.c1b1{transform-origin:300px 143px;animation-delay:0.35s}
+.c1b2{transform-origin:300px 173px;animation-delay:0.43s}
+.c1b3{transform-origin:300px 203px;animation-delay:0.51s}
+.c1b4{transform-origin:300px 233px;animation-delay:0.59s}
+.c2b0{transform-origin:570px 113px;animation-delay:0.39s}
+.c2b1{transform-origin:570px 143px;animation-delay:0.47s}
+.c2b2{transform-origin:570px 173px;animation-delay:0.55s}
+.c2b3{transform-origin:570px 203px;animation-delay:0.63s}
+.c2b4{transform-origin:570px 233px;animation-delay:0.71s}
+.c3b0{transform-origin:840px 113px;animation-delay:0.51s}
+.c3b1{transform-origin:840px 143px;animation-delay:0.59s}
+.c3b2{transform-origin:840px 173px;animation-delay:0.67s}
+.c3b3{transform-origin:840px 203px;animation-delay:0.75s}
+.c3b4{transform-origin:840px 233px;animation-delay:0.83s}
+  </style>
+  <rect x=".5" y=".5" width="1079" height="249" rx="10" fill="#f6f8fc" stroke="#d8e0ee"/>
+  <rect x="0" y="0" width="4" height="250" rx="2" fill="#00966F"/>
+  <text x="30" y="30" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="14" font-weight="600" fill="#12203a">Skill Levels</text>
+  <text x="30" y="66" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#00966F">Front-End &amp; UI</text>
+<rect x="30" y="109" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c0b0" x="30" y="109" width="204.0" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="270" y="106" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">85%</text>
+<text x="30" y="100" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">React</text>
+<rect x="30" y="139" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c0b1" x="30" y="139" width="192.0" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="270" y="136" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">80%</text>
+<text x="30" y="130" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">TypeScript</text>
+<rect x="30" y="169" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c0b2" x="30" y="169" width="211.2" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="270" y="166" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">88%</text>
+<text x="30" y="160" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">JavaScript</text>
+<rect x="30" y="199" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c0b3" x="30" y="199" width="220.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="270" y="196" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">92%</text>
+<text x="30" y="190" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">HTML &amp; CSS</text>
+<rect x="30" y="229" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c0b4" x="30" y="229" width="196.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="270" y="226" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">82%</text>
+<text x="30" y="220" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Bootstrap</text>
+<text x="300" y="66" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#00966F">Backend &amp; Data</text>
+<rect x="300" y="109" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c1b0" x="300" y="109" width="206.4" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="540" y="106" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">86%</text>
+<text x="300" y="100" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Python</text>
+<rect x="300" y="139" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c1b1" x="300" y="139" width="172.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="540" y="136" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">72%</text>
+<text x="300" y="130" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Node.js</text>
+<rect x="300" y="169" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c1b2" x="300" y="169" width="148.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="540" y="166" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">62%</text>
+<text x="300" y="160" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Java</text>
+<rect x="300" y="199" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c1b3" x="300" y="199" width="182.4" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="540" y="196" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">76%</text>
+<text x="300" y="190" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">MySQL</text>
+<rect x="300" y="229" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c1b4" x="300" y="229" width="168.0" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="540" y="226" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">70%</text>
+<text x="300" y="220" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">MongoDB</text>
+<text x="570" y="66" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#00966F">AI &amp; Automation</text>
+<rect x="570" y="109" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c2b0" x="570" y="109" width="192.0" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="810" y="106" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">80%</text>
+<text x="570" y="100" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">n8n</text>
+<rect x="570" y="139" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c2b1" x="570" y="139" width="172.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="810" y="136" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">72%</text>
+<text x="570" y="130" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Embeddings</text>
+<rect x="570" y="169" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c2b2" x="570" y="169" width="158.4" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="810" y="166" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">66%</text>
+<text x="570" y="160" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">TensorFlow</text>
+<rect x="570" y="199" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c2b3" x="570" y="199" width="172.8" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="810" y="196" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">72%</text>
+<text x="570" y="190" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">scikit-learn</text>
+<rect x="570" y="229" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c2b4" x="570" y="229" width="177.6" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="810" y="226" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">74%</text>
+<text x="570" y="220" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">RAG &amp; Search</text>
+<text x="840" y="66" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#00966F">DevOps &amp; Tools</text>
+<rect x="840" y="109" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c3b0" x="840" y="109" width="211.2" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="1080" y="106" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">88%</text>
+<text x="840" y="100" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Git &amp; GitHub</text>
+<rect x="840" y="139" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c3b1" x="840" y="139" width="187.2" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="1080" y="136" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">78%</text>
+<text x="840" y="130" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Vercel</text>
+<rect x="840" y="169" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c3b2" x="840" y="169" width="177.6" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="1080" y="166" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">74%</text>
+<text x="840" y="160" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Cloudflare</text>
+<rect x="840" y="199" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c3b3" x="840" y="199" width="168.0" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="1080" y="196" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">70%</text>
+<text x="840" y="190" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">Linux &amp; Bash</text>
+<rect x="840" y="229" width="240" height="8" rx="4" fill="#e7edf6"/>
+<rect class="bar c3b4" x="840" y="229" width="163.2" height="8" rx="4" fill="url(#barGrad)"/>
+<text x="1080" y="226" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="11" text-anchor="end" fill="#00966F">68%</text>
+<text x="840" y="220" font-family="'Segoe UI',Ubuntu,Helvetica,sans-serif" font-size="12" fill="#5b6b86">CI/CD</text>
+</svg>
