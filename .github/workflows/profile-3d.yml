@@ -29,14 +29,7 @@ jobs:
           # automatic GITHUB_TOKEN, which sees public data only.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "type": "rainbow",
-              "backgroundColor": "#0A101F",
-              "radarColor": "#00C58E",
-              "growingAnimation": true,
-              "contribColors": ["#111a2e", "#0e4f42", "#12806a", "#00b083", "#3ff0bd"]
-            }
+          SETTING_JSON: .github/profile-3d-settings.json
 
       - name: Commit if changed
         run: |
