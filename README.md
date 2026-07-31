@@ -80,8 +80,8 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 <img src="https://skillicons.dev/icons?i=python,nodejs,java,mysql,mongodb,git&theme=dark" alt="Python, Node.js, Java, MySQL, MongoDB, Git" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/ticker-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/ticker-light.gif" />
   <img src="assets/ticker-dark.svg" alt="Skills marquee — infinite scrolling tech stack" width="100%" />
 </picture>
 
