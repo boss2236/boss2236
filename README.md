@@ -1,48 +1,94 @@
-<!-- Dynamic Header - Looks like code typing -->
+<!-- ══════════════════════ HEADER ══════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hey,+I'm+Muntasir!;Self-taught+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C58E,100:0083B0&height=170&section=header&text=Muntasir%20Mahmud&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Self-taught%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=54&descSize=16" alt="Muntasir Mahmud — Self-taught Developer, AI & Automation" width="100%" />
+
+<a href="https://github.com/boss2236">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00C58E&center=true&vCenter=true&width=650&lines=I+break+code+to+learn+how+it+works.;Then+I+fix+it.;Then+I+automate+it." alt="I break code to learn how it works. Then I fix it. Then I automate it." />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=boss2236&style=for-the-badge&color=00C58E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0083B0?style=for-the-badge" alt="Focus: AI & Automation" />
+<img src="https://img.shields.io/badge/Learning-100%25%20Self--taught-00C58E?style=for-the-badge" alt="100% self-taught" />
+
 </div>
 
 ---
 
 ## 💫 Who am I?
-I'm a **self-taught developer** with a passion for building intelligent systems. I don't just watch tutorials—I learn by **breaking code, fixing it, and automating it**.
 
-I am currently focused on building a **fully automated e-commerce platform** using open-source tools, **React**, and **AI embeddings**.
+I'm a **self-taught developer** building intelligent systems that run themselves.
+
+I don't just watch tutorials — I learn by **breaking code, fixing it, and then automating it** so I never have to do it twice.
+
+Right now I'm putting that into practice: a **fully automated e-commerce platform** built on open-source tools, **React**, and **AI embeddings**.
+
+```yaml
+name:      Muntasir Mahmud
+role:      Developer · Builder · Automator
+building:  Self-operating e-commerce, powered by AI
+stack:     React · Python · Node.js · n8n · Embeddings
+philosophy: "If I do it twice, it should have been a script."
+```
 
 ---
 
 ## 🎯 Current Focus
 
-| Objective | Status | Details |
-| :--- | :---: | :--- |
-| **Front-End** | 🔥 Active | Mastering React, Bootstrap, and modern UI fundamentals. |
-| **AI & Auto** | 🚀 Exploring | Diving into n8n, embeddings, and agentic apps to streamline workflows. |
-| **E-Commerce** | 🏗️ Building | Creating a smart, self-operating business system using free tools. |
+| | Objective | Status | What that means |
+| :---: | :--- | :---: | :--- |
+| 🖥️ | **Front-End** | 🔥 `Active` | Mastering React, Bootstrap, and modern UI fundamentals. |
+| 🤖 | **AI & Automation** | 🚀 `Exploring` | Diving into n8n, embeddings, and agentic apps to streamline workflows. |
+| 🛒 | **E-Commerce** | 🏗️ `Building` | A smart, self-operating business system built entirely on free tools. |
 
-> 💡 **Fun Fact:** Everything I know is self-taught. I believe the best way to learn is to get your hands dirty and experiment.
+> 💡 **Fun fact:** Everything I know is self-taught. The best way to learn is to get your hands dirty and experiment — the docs make a lot more sense *after* you've broken something.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&theme=dark" alt="React, JavaScript, TypeScript, HTML, CSS, Bootstrap" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,mysql,mongodb,git&theme=dark" alt="Python, Node.js, Java, MySQL, MongoDB, Git" />
+
+</div>
+
 <details>
-  <summary><b>👇 Click to expand my full arsenal</b></summary>
-  
-  ### 🖥️ Front-End & UI
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<summary><b>👇 Click to expand the full arsenal</b></summary>
 
-  ### ⚙️ Backend & Data
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
 
-  ### 🤖 AI & Data Science
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<div align="center">
 
-  ### 🛠️ DevOps & Tools
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+**🖥️ Front-End & UI**
 
-  ### 🎮 Game Dev (Hobby)
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&theme=dark" alt="React, JavaScript, TypeScript, HTML5, CSS3, Bootstrap" />
+
+**⚙️ Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,mongodb&theme=dark" alt="Python, Java, Node.js, MySQL, MongoDB" />
+
+**🤖 AI & Data Science**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,anaconda&theme=dark" alt="TensorFlow, scikit-learn, Anaconda" />
+
+<sub>…plus **NumPy**, **embeddings & vector search**, and **n8n** for agentic workflows.</sub>
+
+**🚀 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,cloudflare&theme=dark" alt="Git, GitHub, GitLab, Vercel, Cloudflare" />
+
+**🎮 Game Dev — hobby zone**
+
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine, Unity" />
+
+<sub>Design side: **Canva** for anything that needs to look good before it works.</sub>
+
+</div>
 
 </details>
 
@@ -50,39 +96,57 @@ I am currently focused on building a **fully automated e-commerce platform** usi
 
 ## 📊 GitHub Metrics
 
-<!-- Keeping the user's preferred stats but centering them for a cleaner look -->
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=boss2236&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  
-  <!-- Streak and Languages on one row if screen width permits, otherwise stacks -->
-  <br/>
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=boss2236&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boss2236&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/>
+<!-- Cards auto-switch between light and dark to match your GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boss2236&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boss2236&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boss2236&theme=github_dark" alt="GitHub profile summary" width="100%" />
+</picture>
 
-  ![](https://github-profile-trophy.vercel.app/?username=boss2236&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boss2236&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boss2236&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boss2236&theme=github_dark" alt="Top languages by repository" width="41%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boss2236&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boss2236&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boss2236&theme=github_dark" alt="Top languages by commit" width="41%" />
+</picture>
 
-  ![](https://github-contributor-stats.vercel.app/api?username=boss2236&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=boss2236&theme=highcontrast&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=boss2236&theme=default&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=boss2236&theme=highcontrast&hide_border=true&border_radius=8" alt="GitHub contribution streak" width="60%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=boss2236&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=boss2236&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boss2236&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-### ✍️ Thought of the Day
+## ✍️ Thought of the Day
+
 <div align="center">
-  
-  <i>
-  "Simplicity is the soul of efficiency.<br>
-  If you can't explain it simply, you don't understand it well enough."
-  </i>
-  <br>
-  <b>— Austin Freeman</b>
-  
+
+> *"Simplicity is the soul of efficiency.*
+> *If you can't explain it simply, you don't understand it well enough."*
+>
+> **— Austin Freeman**
+
 </div>
 
 ---
@@ -91,29 +155,24 @@ I am currently focused on building a **fully automated e-commerce platform** usi
 
 <div align="center">
 
-### Let's Connect
-<!-- Using 'flat-square' style for a cleaner, smaller look -->
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/TasirDev) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/m.tasir69) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muntasir-mahmud-8b5287231) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muntasirsiltan123@gmail.com)
+### Let's build something
 
-<br>
-<br>
+<a href="https://linkedin.com/in/muntasir-mahmud-8b5287231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:muntasirsiltan123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://facebook.com/TasirDev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/m.tasir69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-### 💰 Support the Journey
-If my work helps you, consider buying me a coffee to keep the servers running!
-<br><br>
-<a href="https://paypal.me/@MuntasirMahmud553">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donation">
-</a>
+<br/><br/>
+
+### 💰 Support the journey
+
+<sub>If something I built saved you time, a coffee keeps the servers running.</sub>
+
+<br/>
+
+<a href="https://paypal.me/MuntasirMahmud553"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal" /></a>
 
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=boss2236&icon=0&color=0" alt="Visitor Count"/>
-</div>
-
----
-```
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00C58E&height=120&section=footer" alt="" width="100%" />
