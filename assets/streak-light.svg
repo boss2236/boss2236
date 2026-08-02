@@ -25,7 +25,7 @@
   <rect x="0" y="0" width="4" height="178" rx="2" fill="#00966F"/>
   <text class="ttl" x="20" y="30">Streak</text>
   <text class="flame" x="64" y="110" font-size="44" text-anchor="middle">&#128293;</text>
-  <text class="big" x="150" y="114">1</text>
+  <text class="big" x="150" y="114">0</text>
   <text class="lbl" x="152" y="130">day streak</text>
   <rect x="120" y="140" width="320" height="1" fill="#d8e0ee"/>
   <text class="lbl" x="120" y="158">&#128293; best 3 days</text>
