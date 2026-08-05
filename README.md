@@ -160,9 +160,9 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=b3ce5238" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=b2eb7874" />
-  <img src="assets/heatmap-dark.svg?v=b3ce5238" alt="Contribution graph" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=6a5756c3" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=3f8011fd" />
+  <img src="assets/heatmap-dark.svg?v=6a5756c3" alt="Contribution graph" width="96%" />
 </picture>
 
 </div>
@@ -241,7 +241,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **04 Aug 2026, 03:32 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **05 Aug 2026, 03:28 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
