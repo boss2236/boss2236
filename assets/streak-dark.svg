@@ -28,6 +28,6 @@
   <text class="big" x="150" y="114">0</text>
   <text class="lbl" x="152" y="130">day streak</text>
   <rect x="120" y="140" width="320" height="1" fill="#1e2b45"/>
-  <text class="lbl" x="120" y="158">&#128293; best 3 days</text>
+  <text class="lbl" x="120" y="158">&#128293; best 2 days</text>
   <text class="lbl" x="300" y="158">&#128197; 61 contributions this year</text>
 </svg>
