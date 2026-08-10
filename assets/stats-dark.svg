@@ -30,11 +30,11 @@
     <text class="lbl" x="24" y="95">Repositories</text>
   </g>
   <g class="rise" style="animation-delay:0.06s">
-    <text class="val" x="172" y="78">39</text>
+    <text class="val" x="172" y="78">34</text>
     <text class="lbl" x="172" y="95">Commits</text>
   </g>
   <g class="rise" style="animation-delay:0.12s">
-    <text class="val" x="320" y="78">61</text>
+    <text class="val" x="320" y="78">56</text>
     <text class="lbl" x="320" y="95">Contributions</text>
   </g>
   <g class="rise" style="animation-delay:0.18s">
