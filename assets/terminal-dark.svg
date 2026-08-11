@@ -34,7 +34,7 @@
   <text class="li" x="24" y="70" style="animation-delay:.2s" font-family="'Fira Code',Consolas,monospace" font-size="14">
     <tspan class="prompt">$</tspan><tspan class="dim"> </tspan><tspan class="cmd">whoami</tspan>
   </text>
-  <text class="li out" x="24" y="96" style="animation-delay:.55s" font-family="'Fira Code',Consolas,monospace" font-size="14">muntasir &#183; self-taught developer &#183; full-stack tinkerer</text>
+  <text class="li out" x="24" y="96" style="animation-delay:.55s" font-family="'Fira Code',Consolas,monospace" font-size="14">muntasir &#183; self-directed developer &#183; full-stack builder</text>
 
   <text class="li" x="24" y="132" style="animation-delay:.9s" font-family="'Fira Code',Consolas,monospace" font-size="14">
     <tspan class="prompt">$</tspan><tspan class="dim"> </tspan><tspan class="cmd">cat philosophy.txt</tspan>

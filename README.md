@@ -2,20 +2,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif" />
-  <img src="assets/banner-dark.svg?v=1" alt="Muntasir Mahmud — Self-taught Developer, AI & Automation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif?v=2" />
+  <img src="assets/banner-dark.svg?v=2" alt="Muntasir Mahmud — Self-directed Developer, AI &amp; Automation" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00C58E&center=true&vCenter=true&width=650&lines=I+break+code+to+learn+how+it+works.;Then+I+fix+it.;Then+I+automate+it." alt="I break code to learn how it works. Then I fix it. Then I automate it." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00C58E&center=true&vCenter=true&width=650&lines=I+build+it.;Then+I+refine+it.;Then+I+make+it+run+itself." alt="I build it. Then I refine it. Then I make it run itself." />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=boss2236&style=for-the-badge&color=00C58E&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0083B0?style=for-the-badge" alt="Focus: AI and Automation" />
-<img src="https://img.shields.io/badge/Learning-100%25%20Self--taught-00C58E?style=for-the-badge" alt="100% self-taught" />
+<img src="https://img.shields.io/badge/Learning-Self--directed-00C58E?style=for-the-badge" alt="Self-directed learning" />
 <img src="https://img.shields.io/badge/Ask%20Me%20About-AI%20Automation-0083B0?style=for-the-badge" alt="Ask me about AI automation" />
-<img src="https://img.shields.io/badge/Mood-Always%20Building-00C58E?style=for-the-badge" alt="Always building" />
+<img src="https://img.shields.io/badge/Status-Always%20Building-00C58E?style=for-the-badge" alt="Status: always building" />
 
 </div>
 
@@ -23,18 +23,18 @@
 
 ## 💫 Who am I?
 
-I'm a **self-taught developer** building intelligent systems that run themselves.
+I'm a **self-directed developer** building intelligent systems that run themselves.
 
-I don't just watch tutorials — I learn by **breaking code, fixing it, and then automating it** so I never have to do it twice.
+I learn by building — shipping working code, testing it under real conditions, then **automating anything I shouldn't have to do twice**.
 
-Right now I'm putting that into practice: a **fully automated e-commerce platform** built on open-source tools, **React**, and **AI embeddings**.
+Right now that's a **fully automated e-commerce platform**, built end to end on open-source tooling, **React**, and **AI embeddings**.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.gif" />
-  <img src="assets/terminal-dark.svg?v=1" alt="Terminal — whoami, philosophy, and current build" width="62%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.gif?v=2" />
+  <img src="assets/terminal-dark.svg?v=2" alt="Terminal — whoami, philosophy, and current build" width="62%" />
 </picture>
 
 </div>
@@ -63,11 +63,11 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 | | Objective | Status | What that means |
 | :---: | :--- | :---: | :--- |
-| 🖥️ | **Front-End** | 🔥 `Active` | Mastering React, Bootstrap, and modern UI fundamentals. |
-| 🤖 | **AI & Automation** | 🚀 `Exploring` | Diving into n8n, embeddings, and agentic apps to streamline workflows. |
-| 🛒 | **E-Commerce** | 🏗️ `Building` | A smart, self-operating business system built entirely on free tools. |
+| 🖥️ | **Front-End** | 🔥 `Active` | Building production interfaces with React, Bootstrap, and modern UI fundamentals. |
+| 🤖 | **AI & Automation** | 🚀 `Exploring` | Working with n8n, embeddings, and agentic workflows to remove manual steps from real processes. |
+| 🛒 | **E-Commerce** | 🏗️ `Building` | A self-operating storefront, architected entirely on open-source tooling. |
 
-> 💡 **Fun fact:** Everything I know is self-taught. The best way to learn is to get your hands dirty and experiment — the docs make a lot more sense *after* you've broken something.
+> 💡 **How I work:** Everything here is self-directed. I build first and read second — documentation lands far better once you've already had to make something work.
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -94,7 +94,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 </div>
 
 <details>
-<summary><b>👇 Click to expand the full arsenal</b></summary>
+<summary><b>👇 Click to expand the full stack</b></summary>
 
 <br/>
 
@@ -118,11 +118,11 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,cloudflare&theme=dark" alt="Git, GitHub, GitLab, Vercel, Cloudflare" />
 
-**🎮 Game Dev — hobby zone**
+**🎮 Game Development — personal projects**
 
 <img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine, Unity" />
 
-<sub>Design side: **Canva** for anything that needs to look good before it works.</sub>
+<sub>Design side: **Canva**, for the work that has to look right before it works.</sub>
 
 </div>
 
@@ -132,7 +132,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 ## 📊 GitHub Metrics
 
-<sub>These cards are generated by a workflow in this repo and served from `assets/` — no public rendering service to rate-limit or go down.</sub>
+<sub>These cards are generated by a workflow in this repository and served from `assets/` — no third-party rendering service to rate-limit or go down.</sub>
 
 <!-- CARDS:START -->
 <div align="center">
@@ -168,7 +168,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 </div>
 <!-- CARDS:END -->
 
-<sub>⚡ Live activity — rendered on demand by `github-readme-activity-graph`, updates every time you push.</sub>
+<sub>⚡ Live activity — rendered on demand by `github-readme-activity-graph`, refreshed on every push.</sub>
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 </div>
 
-<sub>🏔️ A 3D landscape of my contribution grid — rendered nightly by a workflow in this repo.</sub>
+<sub>🏔️ A 3D rendering of the contribution grid — rebuilt nightly by a workflow in this repository.</sub>
 
 <div align="center">
 
@@ -190,14 +190,14 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🐍 Watch the commits get eaten
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boss2236/boss2236/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boss2236/boss2236/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/boss2236/boss2236/output/snake-dark.svg" alt="Snake eating my contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/boss2236/boss2236/output/snake-dark.svg" alt="Snake traversing my contribution graph" width="100%" />
 </picture>
 
 </div>
@@ -208,8 +208,7 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 <div align="center">
 
-> *"Simplicity is the soul of efficiency.*
-> *If you can't explain it simply, you don't understand it well enough."*
+> *"Simplicity is the soul of efficiency."*
 >
 > **— Austin Freeman**
 
@@ -230,9 +229,9 @@ Right now I'm putting that into practice: a **fully automated e-commerce platfor
 
 <br/><br/>
 
-### 💰 Support the journey
+### 💰 Support the work
 
-<sub>If something I built saved you time, a coffee keeps the servers running.</sub>
+<sub>If something I've built here saved you time, you're welcome to support the work.</sub>
 
 <br/>
 
