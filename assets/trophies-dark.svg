@@ -51,7 +51,7 @@
   <g class="rise" style="animation-delay:0.42s">
     <rect x="172" y="82" width="136" height="52" rx="10" class="chip"/>
     <text x="186" y="99" font-size="15">&#128027;</text>
-    <text class="chipval" x="208" y="112">10</text>
+    <text class="chipval" x="208" y="112">9</text>
     <text class="chiplbl" x="208" y="124">Issues</text>
   </g>
   <g class="rise" style="animation-delay:0.50s">
