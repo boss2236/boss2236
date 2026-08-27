@@ -24,7 +24,7 @@
   <rect class="bg" x=".5" y=".5" width="459" height="177" rx="10"/>
   <rect x="0" y="0" width="4" height="178" rx="2" fill="#00966F"/>
   <text class="ttl" x="20" y="30">Activity</text>
-  <text class="lbl" x="20" y="48">building for 15 months &#183; 0 day streak &#183; best 2</text>
+  <text class="lbl" x="20" y="48">building for 15 months &#183; 1 day streak &#183; best 8</text>
   <g class="rise" style="animation-delay:0.00s">
     <text class="val" x="24" y="78">10</text>
     <text class="lbl" x="24" y="95">Repositories</text>
@@ -34,7 +34,7 @@
     <text class="lbl" x="172" y="95">Commits</text>
   </g>
   <g class="rise" style="animation-delay:0.12s">
-    <text class="val" x="320" y="78">52</text>
+    <text class="val" x="320" y="78">487</text>
     <text class="lbl" x="320" y="95">Contributions</text>
   </g>
   <g class="rise" style="animation-delay:0.18s">
