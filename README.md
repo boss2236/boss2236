@@ -160,9 +160,9 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=1cf13ffa" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=cad277ac" />
-  <img src="assets/heatmap-dark.svg?v=1cf13ffa" alt="Contribution graph" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=6f39655d" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=9ccba10b" />
+  <img src="assets/heatmap-dark.svg?v=6f39655d" alt="Contribution graph" width="96%" />
 </picture>
 
 </div>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **31 Aug 2026, 05:26 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **01 Sep 2026, 05:00 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
