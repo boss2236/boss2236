@@ -29,11 +29,11 @@
   <rect class="bg" x=".5" y=".5" width="459" height="177" rx="10"/>
   <rect x="0" y="0" width="4" height="178" rx="2" fill="#00C58E"/>
   <text class="ttl" x="20" y="30">Languages</text>
-  <text class="lbl" x="20" y="48">by bytes across 10 repositories</text>
+  <text class="lbl" x="20" y="48">by bytes across 11 repositories</text>
   <clipPath id="r"><rect x="20" y="62" width="420" height="14" rx="7"/></clipPath>
   <g clip-path="url(#r)">
-  <rect class="s0" x="20.0" y="62" width="376.6" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
-  <rect class="s1" x="396.6" y="62" width="22.1" height="14" fill="#e34c26" style="animation-delay:0.08s"/>
+  <rect class="s0" x="20.0" y="62" width="375.8" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
+  <rect class="s1" x="395.8" y="62" width="22.9" height="14" fill="#e34c26" style="animation-delay:0.08s"/>
   <rect class="s2" x="418.7" y="62" width="10.9" height="14" fill="#3572A5" style="animation-delay:0.16s"/>
   <rect class="s3" x="429.6" y="62" width="5.6" height="14" fill="#f1e05a" style="animation-delay:0.24s"/>
   <rect class="s4" x="435.2" y="62" width="3.0" height="14" fill="#663399" style="animation-delay:0.32s"/>
@@ -41,11 +41,11 @@
   </g>
   <g class="rise" style="animation-delay:0.30s">
     <circle cx="25" cy="104" r="5" fill="#DA5B0B"/>
-    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#8899b3">89.7%</tspan></text>
+    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#8899b3">89.5%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.36s">
     <circle cx="245" cy="104" r="5" fill="#e34c26"/>
-    <text class="lbl" x="258" y="108">HTML <tspan fill="#8899b3">5.3%</tspan></text>
+    <text class="lbl" x="258" y="108">HTML <tspan fill="#8899b3">5.5%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.42s">
     <circle cx="25" cy="130" r="5" fill="#3572A5"/>
