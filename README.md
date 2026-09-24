@@ -48,13 +48,13 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <!-- SNAPSHOT:START -->
 | | | |
 |:--|:--|:--|
-| **11** repositories | **33** commits this year | **517** contributions |
+| **12** repositories | **50** commits this year | **517** contributions |
 | **0** day streak | **8** day best | **16** months building |
 | **0** stars | **3** followers | **2** PRs |
 <!-- SNAPSHOT:END -->
 
 **Most used:** <!-- LANGS:START -->
-**Jupyter Notebook** 89% &#183; **HTML** 5% &#183; **Python** 3% &#183; **JavaScript** 1%
+**Jupyter Notebook** 79% &#183; **Python** 14% &#183; **HTML** 5% &#183; **JavaScript** 1%
 <!-- LANGS:END -->
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -138,14 +138,14 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=6c7071ba" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=1860172b" />
-  <img src="assets/stats-dark.svg?v=6c7071ba" alt="Activity summary" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=aacd5dde" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=6c220f80" />
+  <img src="assets/stats-dark.svg?v=aacd5dde" alt="Activity summary" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=8beefa8c" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=f6b156dd" />
-  <img src="assets/langs-dark.svg?v=8beefa8c" alt="Language breakdown" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=19cff1c8" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=0eeb2acb" />
+  <img src="assets/langs-dark.svg?v=19cff1c8" alt="Language breakdown" width="49%" />
 </picture>
 
 <picture>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **24 Sep 2026, 04:40 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **24 Sep 2026, 09:56 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
