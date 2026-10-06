@@ -48,13 +48,13 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <!-- SNAPSHOT:START -->
 | | | |
 |:--|:--|:--|
-| **12** repositories | **45** commits this year | **550** contributions |
-| **2** day streak | **8** day best | **17** months building |
-| **0** stars | **4** followers | **2** PRs |
+| **12** repositories | **48** commits this year | **553** contributions |
+| **3** day streak | **8** day best | **17** months building |
+| **1** stars | **4** followers | **2** PRs |
 <!-- SNAPSHOT:END -->
 
 **Most used:** <!-- LANGS:START -->
-**Jupyter Notebook** 79% &#183; **Python** 14% &#183; **HTML** 5% &#183; **JavaScript** 1%
+**Jupyter Notebook** 77% &#183; **Python** 14% &#183; **HTML** 5% &#183; **Shell** 2%
 <!-- LANGS:END -->
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -138,31 +138,31 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=c1203338" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=ba1e633b" />
-  <img src="assets/stats-dark.svg?v=c1203338" alt="Activity summary" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=26440de3" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=9e2e37a9" />
+  <img src="assets/stats-dark.svg?v=26440de3" alt="Activity summary" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=19cff1c8" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=0eeb2acb" />
-  <img src="assets/langs-dark.svg?v=19cff1c8" alt="Language breakdown" width="49%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=07f98076" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=1862afbe" />
-  <img src="assets/streak-dark.svg?v=07f98076" alt="Contribution streak" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=9cd60124" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=15675bbf" />
-  <img src="assets/trophies-dark.svg?v=9cd60124" alt="Milestones" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=abe744c0" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=9d7a91ba" />
+  <img src="assets/langs-dark.svg?v=abe744c0" alt="Language breakdown" width="49%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=315cf939" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=4166d76c" />
-  <img src="assets/heatmap-dark.svg?v=315cf939" alt="Contribution graph" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=ff665513" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=ccab2af1" />
+  <img src="assets/streak-dark.svg?v=ff665513" alt="Contribution streak" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=003cbbf3" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=05664f60" />
+  <img src="assets/trophies-dark.svg?v=003cbbf3" alt="Milestones" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=8aa16aa8" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=0dada1a2" />
+  <img src="assets/heatmap-dark.svg?v=8aa16aa8" alt="Contribution graph" width="96%" />
 </picture>
 
 </div>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **06 Oct 2026, 00:46 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **06 Oct 2026, 20:13 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
