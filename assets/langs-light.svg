@@ -32,20 +32,20 @@
   <text class="lbl" x="20" y="48">by bytes across 14 repositories</text>
   <clipPath id="r"><rect x="20" y="62" width="420" height="14" rx="7"/></clipPath>
   <g clip-path="url(#r)">
-  <rect class="s0" x="20.0" y="62" width="296.0" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
-  <rect class="s1" x="316.0" y="62" width="71.6" height="14" fill="#3572A5" style="animation-delay:0.08s"/>
-  <rect class="s2" x="387.6" y="62" width="23.9" height="14" fill="#e34c26" style="animation-delay:0.16s"/>
+  <rect class="s0" x="20.0" y="62" width="295.6" height="14" fill="#DA5B0B" style="animation-delay:0.00s"/>
+  <rect class="s1" x="315.6" y="62" width="72.1" height="14" fill="#3572A5" style="animation-delay:0.08s"/>
+  <rect class="s2" x="387.7" y="62" width="23.8" height="14" fill="#e34c26" style="animation-delay:0.16s"/>
   <rect class="s3" x="411.5" y="62" width="10.7" height="14" fill="#f1e05a" style="animation-delay:0.24s"/>
   <rect class="s4" x="422.2" y="62" width="9.9" height="14" fill="#89e051" style="animation-delay:0.32s"/>
-  <rect class="s5" x="432.0" y="62" width="6.5" height="14" fill="#663399" style="animation-delay:0.40s"/>
+  <rect class="s5" x="432.1" y="62" width="6.5" height="14" fill="#663399" style="animation-delay:0.40s"/>
   </g>
   <g class="rise" style="animation-delay:0.30s">
     <circle cx="25" cy="104" r="5" fill="#DA5B0B"/>
-    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#5b6b86">70.5%</tspan></text>
+    <text class="lbl" x="38" y="108">Jupyter Notebook <tspan fill="#5b6b86">70.4%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.36s">
     <circle cx="245" cy="104" r="5" fill="#3572A5"/>
-    <text class="lbl" x="258" y="108">Python <tspan fill="#5b6b86">17.1%</tspan></text>
+    <text class="lbl" x="258" y="108">Python <tspan fill="#5b6b86">17.2%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.42s">
     <circle cx="25" cy="130" r="5" fill="#e34c26"/>
@@ -53,7 +53,7 @@
   </g>
   <g class="rise" style="animation-delay:0.48s">
     <circle cx="245" cy="130" r="5" fill="#f1e05a"/>
-    <text class="lbl" x="258" y="134">JavaScript <tspan fill="#5b6b86">2.6%</tspan></text>
+    <text class="lbl" x="258" y="134">JavaScript <tspan fill="#5b6b86">2.5%</tspan></text>
   </g>
   <g class="rise" style="animation-delay:0.54s">
     <circle cx="25" cy="156" r="5" fill="#89e051"/>
