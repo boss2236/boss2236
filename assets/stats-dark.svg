@@ -30,15 +30,15 @@
     <text class="lbl" x="24" y="95">Repositories</text>
   </g>
   <g class="rise" style="animation-delay:0.06s">
-    <text class="val" x="172" y="78">74</text>
+    <text class="val" x="172" y="78">80</text>
     <text class="lbl" x="172" y="95">Commits</text>
   </g>
   <g class="rise" style="animation-delay:0.12s">
-    <text class="val" x="320" y="78">592</text>
+    <text class="val" x="320" y="78">600</text>
     <text class="lbl" x="320" y="95">Contributions</text>
   </g>
   <g class="rise" style="animation-delay:0.18s">
-    <text class="val" x="24" y="140">3</text>
+    <text class="val" x="24" y="140">5</text>
     <text class="lbl" x="24" y="157">Pull requests</text>
   </g>
   <g class="rise" style="animation-delay:0.24s">

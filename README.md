@@ -48,13 +48,13 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <!-- SNAPSHOT:START -->
 | | | |
 |:--|:--|:--|
-| **16** repositories | **74** commits this year | **592** contributions |
+| **16** repositories | **80** commits this year | **600** contributions |
 | **2** day streak | **8** day best | **17** months building |
-| **1** stars | **4** followers | **3** PRs |
+| **1** stars | **4** followers | **5** PRs |
 <!-- SNAPSHOT:END -->
 
 **Most used:** <!-- LANGS:START -->
-**Jupyter Notebook** 58% &#183; **Python** 14% &#183; **TypeScript** 10% &#183; **Kotlin** 7%
+**Jupyter Notebook** 57% &#183; **Python** 14% &#183; **TypeScript** 11% &#183; **Kotlin** 7%
 <!-- LANGS:END -->
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -138,31 +138,31 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=49d1ee4a" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=f9de3561" />
-  <img src="assets/stats-dark.svg?v=49d1ee4a" alt="Activity summary" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=b13ae183" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=91fddd0f" />
+  <img src="assets/stats-dark.svg?v=b13ae183" alt="Activity summary" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=62c2f5ba" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=78832e76" />
-  <img src="assets/langs-dark.svg?v=62c2f5ba" alt="Language breakdown" width="49%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=7e2e3382" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=5139dbaf" />
-  <img src="assets/streak-dark.svg?v=7e2e3382" alt="Contribution streak" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=8b162029" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=b917a33c" />
-  <img src="assets/trophies-dark.svg?v=8b162029" alt="Milestones" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=3198dbe5" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=7274fad9" />
+  <img src="assets/langs-dark.svg?v=3198dbe5" alt="Language breakdown" width="49%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=10d0b498" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=17b534e3" />
-  <img src="assets/heatmap-dark.svg?v=10d0b498" alt="Contribution graph" width="96%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=a3388aaf" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg?v=7065e8ea" />
+  <img src="assets/streak-dark.svg?v=a3388aaf" alt="Contribution streak" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=660e67bc" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=9bfa316a" />
+  <img src="assets/trophies-dark.svg?v=660e67bc" alt="Milestones" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg?v=a68c7e15" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg?v=1b893959" />
+  <img src="assets/heatmap-dark.svg?v=a68c7e15" alt="Contribution graph" width="96%" />
 </picture>
 
 </div>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **20 Oct 2026, 04:41 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **20 Oct 2026, 15:00 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
