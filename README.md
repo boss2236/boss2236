@@ -143,9 +143,9 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
   <img src="assets/stats-dark.svg?v=b13ae183" alt="Activity summary" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=3198dbe5" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=7274fad9" />
-  <img src="assets/langs-dark.svg?v=3198dbe5" alt="Language breakdown" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=d584f4b4" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg?v=e7bccd12" />
+  <img src="assets/langs-dark.svg?v=d584f4b4" alt="Language breakdown" width="49%" />
 </picture>
 
 <picture>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **20 Oct 2026, 15:00 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **20 Oct 2026, 22:15 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
