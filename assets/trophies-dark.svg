@@ -45,7 +45,7 @@
   <g class="rise" style="animation-delay:0.34s">
     <rect x="24" y="82" width="136" height="52" rx="10" class="chip"/>
     <text x="38" y="99" font-size="15">&#127919;</text>
-    <text class="chipval" x="60" y="112">11</text>
+    <text class="chipval" x="60" y="112">12</text>
     <text class="chiplbl" x="60" y="124">PRs</text>
   </g>
   <g class="rise" style="animation-delay:0.42s">
