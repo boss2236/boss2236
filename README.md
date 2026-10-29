@@ -49,7 +49,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 | | | |
 |:--|:--|:--|
 | **16** repositories | **112** commits this year | **678** contributions |
-| **0** day streak | **8** day best | **17** months building |
+| **0** day streak | **8** day best | **18** months building |
 | **6** stars | **5** followers | **12** PRs |
 <!-- SNAPSHOT:END -->
 
@@ -138,9 +138,9 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=46d83d68" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=33c2d575" />
-  <img src="assets/stats-dark.svg?v=46d83d68" alt="Activity summary" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=54250995" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg?v=2eed1770" />
+  <img src="assets/stats-dark.svg?v=54250995" alt="Activity summary" width="49%" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg?v=37936da6" />
@@ -154,9 +154,9 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
   <img src="assets/streak-dark.svg?v=42c633bc" alt="Contribution streak" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=6989db97" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=713ccc97" />
-  <img src="assets/trophies-dark.svg?v=6989db97" alt="Milestones" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg?v=cffd0243" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg?v=045ee87f" />
+  <img src="assets/trophies-dark.svg?v=cffd0243" alt="Milestones" width="49%" />
 </picture>
 
 <picture>
@@ -240,7 +240,7 @@ Right now that's a **fully automated e-commerce platform**, built end to end on 
 <br/><br/>
 
 <!-- UPDATED:START -->
-<sub>Cards regenerated automatically &#183; last run **29 Oct 2026, 02:22 UTC**</sub>
+<sub>Cards regenerated automatically &#183; last run **29 Oct 2026, 09:50 UTC**</sub>
 <!-- UPDATED:END -->
 
 </div>
